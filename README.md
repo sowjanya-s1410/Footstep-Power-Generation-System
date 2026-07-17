@@ -36,3 +36,16 @@ This project demonstrates the generation of electrical energy from footsteps usi
 
 ## Project Images
 Project images and demonstration will be added below.
+## Project Images
+
+### Project Setup
+![Project Setup](Project%20_setup.jpg)
+
+### Working Demonstration
+![Working Demonstration](Project%20_working.jpg)
+
+### Project Infographic
+![Project Infographic](Project%20_infographic%20.png)
+
+### Project Architecture
+![Project Architecture](Project%20_architecture%20.png)
