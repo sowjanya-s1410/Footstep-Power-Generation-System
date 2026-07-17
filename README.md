@@ -49,3 +49,21 @@ Project images and demonstration will be added below.
 
 ### Project Architecture
 ![Project Architecture](Project%20_architecture%20.png)
+## Technologies Used
+- Arduino Uno
+- Embedded C
+- Piezoelectric Sensors
+- 16×2 LCD
+- Relay Module
+
+## Applications
+- Smart Energy Harvesting
+- Smart Flooring
+- Railway Stations
+- Shopping Malls
+- Smart Cities
+
+## Future Scope
+- IoT Integration
+- Improved Energy Storage
+- Smart City Deployment
